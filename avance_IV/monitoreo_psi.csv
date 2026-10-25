@@ -1,0 +1,11 @@
+Variable,Lote,PSI,Estado
+log_likes_video,Prueba,0.0332,Estable
+log_likes_video,Simulado reciente,0.0332,Estable
+log_comentarios_video,Prueba,0.0307,Estable
+log_comentarios_video,Simulado reciente,0.0307,Estable
+antiguedad_dias,Prueba,0.0141,Estable
+antiguedad_dias,Simulado reciente,0.2275,Vigilar
+proporcion_positivos,Prueba,0.0133,Estable
+proporcion_positivos,Simulado reciente,0.0133,Estable
+longitud_titulo,Prueba,0.0247,Estable
+longitud_titulo,Simulado reciente,0.0247,Estable

@@ -1,0 +1,9 @@
+Title,Keyword,comentarios_analizados,log_promedio_likes_comentarios,proporcion_negativos,proporcion_neutrales,proporcion_positivos,longitud_titulo,antiguedad_dias,log_likes_video,log_comentarios_video,mayusculas_titulo,signos_titulo,palabras_titulo,titulo_numero,longitud_comentarios,fecha_prediccion,modelo,probabilidad_alta,prediccion
+5 Years of Making Games in Unity!,game development,1,0.0,0.0,1.0,0.0,33,848,10.9628737947034,7.937017489515454,0.12121212121212122,1,7,1,1230.0,2026-10-25T15:11:00,Modelo A (con likes),1.0,Popularidad ALTA
+5 Years of Making Games in Unity!,game development,1,0.0,0.0,1.0,0.0,33,848,,,0.12121212121212122,1,7,1,1230.0,2026-10-25T15:11:00,Modelo B (NLP sin likes),0.4487,Popularidad BAJA
+My New House Gaming Setup is SICK!,tech,3,0.0,0.0,1.0,0.0,34,1,,,0.2647058823529412,1,7,0,26.666666666666668,2026-10-25T15:11:02,Modelo B (NLP sin likes),0.0123,Popularidad BAJA
+5 Years of Making Games in Unity!,game development,1,0.0,0.0,1.0,0.0,33,848,10.9628737947034,7.937017489515454,0.12121212121212122,1,7,1,1230.0,2026-10-25T15:14:39,Modelo A (con likes),1.0,Popularidad ALTA
+5 Years of Making Games in Unity!,game development,1,0.0,0.0,1.0,0.0,33,848,,,0.12121212121212122,1,7,1,1230.0,2026-10-25T15:14:39,Modelo B (NLP sin likes),0.4487,Popularidad BAJA
+15 Emerging Technologies that Will Change the World,tech,9,0.0,0.0,1.0,0.0,51,259,,,0.09803921568627451,0,8,1,61.55555555555556,2026-10-25T15:14:59,Modelo B (NLP sin likes),0.6641,Popularidad ALTA
+15 Emerging Technologies that Will Change the World,tech,9,0.0,0.0,1.0,0.0,51,259,,,0.09803921568627451,0,8,1,61.55555555555556,2026-10-25T15:15:14,Modelo B (NLP sin likes),0.6641,Popularidad ALTA
+15 Emerging Technologies that Will Change the World,tech,9,0.0,0.0,1.0,0.0,51,259,10.726917103358996,7.9665866976384025,0.09803921568627451,0,8,1,61.55555555555556,2026-10-25T15:15:18,Modelo A (con likes),0.9991,Popularidad ALTA

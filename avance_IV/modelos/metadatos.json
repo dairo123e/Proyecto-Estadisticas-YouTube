@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "fecha_entrenamiento": "2026-10-25 15:14",
+  "mediana_visualizaciones": 589907.0,
+  "fecha_referencia": "2022-08-24",
+  "variables_A": [
+    "log_likes_video",
+    "log_comentarios_video",
+    "log_promedio_likes_comentarios",
+    "comentarios_analizados",
+    "proporcion_negativos",
+    "proporcion_neutrales",
+    "proporcion_positivos",
+    "longitud_titulo",
+    "antiguedad_dias"
+  ],
+  "variables_B": [
+    "log_promedio_likes_comentarios",
+    "comentarios_analizados",
+    "proporcion_negativos",
+    "proporcion_neutrales",
+    "proporcion_positivos",
+    "longitud_titulo",
+    "antiguedad_dias",
+    "mayusculas_titulo",
+    "signos_titulo",
+    "palabras_titulo",
+    "titulo_numero",
+    "longitud_comentarios"
+  ],
+  "metricas": [
+    {
+      "Modelo": "A. Gradient Boosting ajustado (con likes)",
+      "Accuracy": 0.9462,
+      "Precision": 0.9511,
+      "Recall": 0.9409,
+      "F1": 0.9459,
+      "ROC_AUC": 0.9877,
+      "CV_F1": 0.94,
+      "CV_std": 0.014
+    },
+    {
+      "Modelo": "B. XGBoost + TF-IDF (sin likes)",
+      "Accuracy": 0.8441,
+      "Precision": 0.8478,
+      "Recall": 0.8387,
+      "F1": 0.8432,
+      "ROC_AUC": 0.9337,
+      "CV_F1": 0.8701,
+      "CV_std": 0.0154
+    }
+  ]
+}
